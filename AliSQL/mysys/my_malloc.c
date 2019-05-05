@@ -16,7 +16,7 @@
 #include "mysys_priv.h"
 #include "mysys_err.h"
 #include <m_string.h>
-#include <malloc.h>
+//#include <malloc.h>
 
 /* Thread Memory Used */
 static THD_MALLOC_SIZE_CB malloc_size_cb_func= NULL;
