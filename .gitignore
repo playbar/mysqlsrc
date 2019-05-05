@@ -1,1 +1,5 @@
 .DS_Store
+mysql_5_6_23/.idea
+mysql_5_6_23/cmake-build-debug
+AliSQL/.idea
+AliSQL/cmake-build-debug
